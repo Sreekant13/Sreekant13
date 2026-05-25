@@ -5,17 +5,20 @@
 <p align="center"><i>Building AI systems that ship: agentic LLM pipelines, healthcare ML, and the engineering rigor in between.</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+  <a href="https://www.linkedin.com/in/sreekantbaheti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:sreekantbaheti13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://YOUR-RESUME-LINK">
+  <a href="https://www.sreekantbaheti.com/Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FF7139?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://github.com/Sreekant13">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  href="https://sreekantbaheti.com">
+    <img src="https://img.shields.io/badge/Portfolio-6F42C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -113,7 +116,6 @@ A custom **YCSB Java binding for JanusGraph**, with schema and CRUD driven throu
 
 ## Beyond Code
 
-- Bilingual in **English and Spanish**.
 - Long-standing interest in **reinforcement learning, evolutionary optimization, and applied LLM research**.
 - Thinking a lot about **AI for healthcare and education**, plus **sustainability** as a design constraint, not an afterthought.
 - Curious about the deeper why behind the work: spirituality, meaning, and what good engineering owes the people it touches.
