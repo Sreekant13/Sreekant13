@@ -1,4 +1,4 @@
-<h1 align="center">Sreekant</h1>
+<h1 align="center">Sreekant Baheti</h1>
 
 <p align="center"><b>M.S. Computer Science · Los Angeles, CA</b></p>
 
