@@ -106,9 +106,9 @@ A custom **YCSB Java binding for JanusGraph**, with schema and CRUD driven throu
 
 ## 🔀 Open Source Contributions
 
-Merged PRs in widely used Python & ML libraries:
+Merged PRs shipping in widely used Python & ML libraries (millions of downloads a month):
 
-- **[huggingface_hub](https://github.com/huggingface/huggingface_hub):** 4 merged PRs. Made `filter_repo_objects` pattern matching case-sensitive across platforms ([#4435](https://github.com/huggingface/huggingface_hub/pull/4435)), added two-letter byte units (KB/MB/GB/TB) to `parse_size` ([#4468](https://github.com/huggingface/huggingface_hub/pull/4468)), plus CLI help & docstring fixes ([#4477](https://github.com/huggingface/huggingface_hub/pull/4477), [#4436](https://github.com/huggingface/huggingface_hub/pull/4436))
+- **[huggingface_hub](https://github.com/huggingface/huggingface_hub):** 4 merged PRs, **3 shipped in the [`v1.22.0`](https://github.com/huggingface/huggingface_hub/releases/tag/v1.22.0) release** and credited in the changelog. Made `filter_repo_objects` pattern matching case-sensitive across all platforms ([#4435](https://github.com/huggingface/huggingface_hub/pull/4435)), extended `parse_size` to accept two-letter byte units (KB/MB/GB/TB) ([#4468](https://github.com/huggingface/huggingface_hub/pull/4468)), and corrected the `http_backoff` retry behavior plus CLI help ([#4436](https://github.com/huggingface/huggingface_hub/pull/4436), [#4477](https://github.com/huggingface/huggingface_hub/pull/4477))
 - **[networkx](https://github.com/networkx/networkx):** aligned `boruvka_mst_edges` defaults with Kruskal/Prim ([#8728](https://github.com/networkx/networkx/pull/8728))
 - **[dpgen](https://github.com/deepmodeling/dpgen):** fixed an `AttributeError` in ABACUS Gamma post-processing ([#1920](https://github.com/deepmodeling/dpgen/pull/1920))
 - **[xarray](https://github.com/pydata/xarray):** docstring fix in `cumulative()` ([#11425](https://github.com/pydata/xarray/pull/11425))
@@ -130,7 +130,7 @@ Merged PRs in widely used Python & ML libraries:
 
 - 🥈 **Enterprise-Level Silver Award, Bank of America:** for automating Kafka topic & role provisioning, replacing a manual multi-team workflow.
 - 🥇 **1st Place, EcoMate AI Hackathon:** Sustainable Infrastructure category, for [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) ([live demo](https://ecomateai.streamlit.app/)), a multimodal GenAI carbon-footprint estimator.
-- 🔀 **Open-source contributor:** merged PRs in Hugging Face Hub, NetworkX, xarray, statsmodels, and dpgen ([details above](#-open-source-contributions)).
+- 🔀 **Shipped open-source contributor:** code merged into Hugging Face Hub, NetworkX, xarray, statsmodels, and dpgen, with 3 PRs live in the Hugging Face Hub `v1.22.0` release ([details above](#-open-source-contributions)).
 
 ---
 
