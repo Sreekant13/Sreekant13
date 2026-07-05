@@ -70,6 +70,13 @@ Outside of code, I think about sustainability, interdisciplinary AI, and the big
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat&logo=temporal&logoColor=white)
 
+**Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+
 ---
 
 ## Featured Projects
@@ -87,7 +94,7 @@ Fine-tuned a 4-bit quantized LLaMA 3.2 Vision model on the **MultiUI/GUI dataset
 *PyTorch · Unsloth · LoRA · LLaMA 3.2*
 
 ### [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) &nbsp;·&nbsp; [Live Demo](https://ecomateai.streamlit.app/)
-🥇 **1st Place — EcoMate AI Hackathon** (Sustainable Infrastructure category)
+🥇 **1st Place, EcoMate AI Hackathon** (Sustainable Infrastructure category)
 A Streamlit app that estimates personal carbon footprints by extracting activity data from natural-language text and images using a multimodal GenAI pipeline.
 *Python · Streamlit · GenAI · Multimodal*
 
@@ -101,11 +108,11 @@ A custom **YCSB Java binding for JanusGraph**, with schema and CRUD driven throu
 
 Merged PRs in widely used Python & ML libraries:
 
-- **[huggingface_hub](https://github.com/huggingface/huggingface_hub)** — 4 merged PRs: made `filter_repo_objects` pattern matching case-sensitive across platforms ([#4435](https://github.com/huggingface/huggingface_hub/pull/4435)), added two-letter byte units (KB/MB/GB/TB) to `parse_size` ([#4468](https://github.com/huggingface/huggingface_hub/pull/4468)), plus CLI help & docstring fixes ([#4477](https://github.com/huggingface/huggingface_hub/pull/4477), [#4436](https://github.com/huggingface/huggingface_hub/pull/4436))
-- **[networkx](https://github.com/networkx/networkx)** — aligned `boruvka_mst_edges` defaults with Kruskal/Prim ([#8728](https://github.com/networkx/networkx/pull/8728))
-- **[dpgen](https://github.com/deepmodeling/dpgen)** — fixed an `AttributeError` in ABACUS Gamma post-processing ([#1920](https://github.com/deepmodeling/dpgen/pull/1920))
-- **[xarray](https://github.com/pydata/xarray)** — docstring fix in `cumulative()` ([#11425](https://github.com/pydata/xarray/pull/11425))
-- **[statsmodels](https://github.com/statsmodels/statsmodels)** — docstring fixes ([#9873](https://github.com/statsmodels/statsmodels/pull/9873))
+- **[huggingface_hub](https://github.com/huggingface/huggingface_hub):** 4 merged PRs. Made `filter_repo_objects` pattern matching case-sensitive across platforms ([#4435](https://github.com/huggingface/huggingface_hub/pull/4435)), added two-letter byte units (KB/MB/GB/TB) to `parse_size` ([#4468](https://github.com/huggingface/huggingface_hub/pull/4468)), plus CLI help & docstring fixes ([#4477](https://github.com/huggingface/huggingface_hub/pull/4477), [#4436](https://github.com/huggingface/huggingface_hub/pull/4436))
+- **[networkx](https://github.com/networkx/networkx):** aligned `boruvka_mst_edges` defaults with Kruskal/Prim ([#8728](https://github.com/networkx/networkx/pull/8728))
+- **[dpgen](https://github.com/deepmodeling/dpgen):** fixed an `AttributeError` in ABACUS Gamma post-processing ([#1920](https://github.com/deepmodeling/dpgen/pull/1920))
+- **[xarray](https://github.com/pydata/xarray):** docstring fix in `cumulative()` ([#11425](https://github.com/pydata/xarray/pull/11425))
+- **[statsmodels](https://github.com/statsmodels/statsmodels):** docstring fixes ([#9873](https://github.com/statsmodels/statsmodels/pull/9873))
 
 [**All merged PRs →**](https://github.com/search?q=author%3ASreekant13+is%3Apr+is%3Amerged&type=pullrequests)
 
@@ -121,9 +128,9 @@ Merged PRs in widely used Python & ML libraries:
 
 ## 🏆 Achievements
 
-- 🥈 **Enterprise-Level Silver Award, Bank of America** — for automating Kafka topic & role provisioning, replacing a manual multi-team workflow.
-- 🥇 **1st Place, EcoMate AI Hackathon** — Sustainable Infrastructure category, for [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) ([live demo](https://ecomateai.streamlit.app/)), a multimodal GenAI carbon-footprint estimator.
-- 🔀 **Open-source contributor** — merged PRs in Hugging Face Hub, NetworkX, xarray, statsmodels, and dpgen ([details above](#-open-source-contributions)).
+- 🥈 **Enterprise-Level Silver Award, Bank of America:** for automating Kafka topic & role provisioning, replacing a manual multi-team workflow.
+- 🥇 **1st Place, EcoMate AI Hackathon:** Sustainable Infrastructure category, for [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) ([live demo](https://ecomateai.streamlit.app/)), a multimodal GenAI carbon-footprint estimator.
+- 🔀 **Open-source contributor:** merged PRs in Hugging Face Hub, NetworkX, xarray, statsmodels, and dpgen ([details above](#-open-source-contributions)).
 
 ---
 
