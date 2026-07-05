@@ -86,7 +86,7 @@ A FastAPI service for **radiology prior relevance prediction**, deployed on Rend
 Fine-tuned a 4-bit quantized LLaMA 3.2 Vision model on the **MultiUI/GUI dataset** using Unsloth, exploring efficient multimodal adaptation under tight memory budgets.
 *PyTorch · Unsloth · LoRA · LLaMA 3.2*
 
-### EcoMate-AI
+### [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) &nbsp;·&nbsp; [Live Demo](https://ecomateai.streamlit.app/)
 🥇 **1st Place — EcoMate AI Hackathon** (Sustainable Infrastructure category)
 A Streamlit app that estimates personal carbon footprints by extracting activity data from natural-language text and images using a multimodal GenAI pipeline.
 *Python · Streamlit · GenAI · Multimodal*
@@ -122,7 +122,7 @@ Merged PRs in widely used Python & ML libraries:
 ## 🏆 Achievements
 
 - 🥈 **Enterprise-Level Silver Award, Bank of America** — for automating Kafka topic & role provisioning, replacing a manual multi-team workflow.
-- 🥇 **1st Place, EcoMate AI Hackathon** — Sustainable Infrastructure category, for [EcoMate-AI](#ecomate-ai), a multimodal GenAI carbon-footprint estimator.
+- 🥇 **1st Place, EcoMate AI Hackathon** — Sustainable Infrastructure category, for [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) ([live demo](https://ecomateai.streamlit.app/)), a multimodal GenAI carbon-footprint estimator.
 - 🔀 **Open-source contributor** — merged PRs in Hugging Face Hub, NetworkX, xarray, statsmodels, and dpgen ([details above](#-open-source-contributions)).
 
 ---
