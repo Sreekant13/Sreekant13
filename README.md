@@ -96,6 +96,10 @@ A FastAPI service for **radiology prior relevance prediction**, deployed on Rend
 Fine-tuned a 4-bit quantized LLaMA 3.2 Vision model on the **MultiUI/GUI dataset** using Unsloth, exploring efficient multimodal adaptation under tight memory budgets.
 *PyTorch · Unsloth · LoRA · LLaMA 3.2*
 
+### [distilbert-emotion](https://huggingface.co/Sreekant13/distilbert-emotion) &nbsp;·&nbsp; 🤗 Published on Hugging Face Hub
+Fine-tuned `distilbert-base-uncased` for multi-class **emotion classification**, reaching **94.25% accuracy** and a **0.9171 F1** on the evaluation set over 4 epochs with mixed-precision (AMP) training. Published as an openly downloadable model on the Hugging Face Hub.
+*PyTorch · Transformers · DistilBERT · Hugging Face Hub*
+
 ### [EcoMate-AI](https://github.com/Sreekant13/EcoMate-AI) &nbsp;·&nbsp; [Live Demo](https://ecomateai.streamlit.app/)
 🥇 **1st Place, EcoMate AI Hackathon** (Sustainable Infrastructure category)
 A Streamlit app that estimates personal carbon footprints by extracting activity data from natural-language text and images using a multimodal GenAI pipeline.
