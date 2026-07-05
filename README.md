@@ -31,6 +31,8 @@ I'm a recent **M.S. Computer Science graduate from USC (May 2026)** with a backg
 
 Right now I'm focused on **agentic LLM systems, applied NLP, and ML for healthcare**. I care a lot about the production side: containerized inference, CI/CD, fine-tuning that actually moves a metric, and pipelines that don't fall over at 1,200 requests an hour.
 
+🔭 **Currently:** contributing to open-source ML libraries and fine-tuning an open model to publish on Hugging Face Hub.
+
 Outside of code, I think about sustainability, interdisciplinary AI, and the bigger questions about why any of this matters.
 
 ---
@@ -85,6 +87,7 @@ Fine-tuned a 4-bit quantized LLaMA 3.2 Vision model on the **MultiUI/GUI dataset
 *PyTorch · Unsloth · LoRA · LLaMA 3.2*
 
 ### EcoMate-AI
+🥇 **1st Place — EcoMate AI Hackathon** (Sustainable Infrastructure category)
 A Streamlit app that estimates personal carbon footprints by extracting activity data from natural-language text and images using a multimodal GenAI pipeline.
 *Python · Streamlit · GenAI · Multimodal*
 
@@ -94,11 +97,33 @@ A custom **YCSB Java binding for JanusGraph**, with schema and CRUD driven throu
 
 ---
 
+## 🔀 Open Source Contributions
+
+Merged PRs in widely used Python & ML libraries:
+
+- **[huggingface_hub](https://github.com/huggingface/huggingface_hub)** — 4 merged PRs: made `filter_repo_objects` pattern matching case-sensitive across platforms ([#4435](https://github.com/huggingface/huggingface_hub/pull/4435)), added two-letter byte units (KB/MB/GB/TB) to `parse_size` ([#4468](https://github.com/huggingface/huggingface_hub/pull/4468)), plus CLI help & docstring fixes ([#4477](https://github.com/huggingface/huggingface_hub/pull/4477), [#4436](https://github.com/huggingface/huggingface_hub/pull/4436))
+- **[networkx](https://github.com/networkx/networkx)** — aligned `boruvka_mst_edges` defaults with Kruskal/Prim ([#8728](https://github.com/networkx/networkx/pull/8728))
+- **[dpgen](https://github.com/deepmodeling/dpgen)** — fixed an `AttributeError` in ABACUS Gamma post-processing ([#1920](https://github.com/deepmodeling/dpgen/pull/1920))
+- **[xarray](https://github.com/pydata/xarray)** — docstring fix in `cumulative()` ([#11425](https://github.com/pydata/xarray/pull/11425))
+- **[statsmodels](https://github.com/statsmodels/statsmodels)** — docstring fixes ([#9873](https://github.com/statsmodels/statsmodels/pull/9873))
+
+[**All merged PRs →**](https://github.com/search?q=author%3ASreekant13+is%3Apr+is%3Amerged&type=pullrequests)
+
+---
+
 ## Experience Highlights
 
 - **Software Engineer Intern** at **The Verse** (May - Aug 2025): Agentic LLM pipelines across 47 daily workflows, BART entity extractor fine-tuned from **0.74 to 0.91 F1**, containerized inference handling 1,247 req/hr at peak.
-- **Software Engineer** at **Bank of America**: Production backend systems and data workflows.
+- **Software Engineer** at **Bank of America**: Production backend systems and data workflows; automated **Kafka topic & role provisioning** (Enterprise-Level Silver Award).
 - **Software Engineering Intern** at **HighRadius**: AI-Enabled FinTech B2B invoice management using XGBoost.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Enterprise-Level Silver Award, Bank of America** — for automating Kafka topic & role provisioning, replacing a manual multi-team workflow.
+- 🥇 **1st Place, EcoMate AI Hackathon** — Sustainable Infrastructure category, for [EcoMate-AI](#ecomate-ai), a multimodal GenAI carbon-footprint estimator.
+- 🔀 **Open-source contributor** — merged PRs in Hugging Face Hub, NetworkX, xarray, statsmodels, and dpgen ([details above](#-open-source-contributions)).
 
 ---
 
@@ -106,11 +131,11 @@ A custom **YCSB Java binding for JanusGraph**, with schema and CRUD driven throu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sreekant13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekant13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekant13&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreekant13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Sreekant13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
