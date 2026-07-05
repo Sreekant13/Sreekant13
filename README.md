@@ -21,6 +21,9 @@
   href="https://sreekantbaheti.com">
     <img src="https://img.shields.io/badge/Portfolio-6F42C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://huggingface.co/Sreekant13">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+  </a>
 </p>
 
 ---
