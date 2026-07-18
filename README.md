@@ -155,6 +155,12 @@ Merged PRs shipping in widely used Python & ML libraries (millions of downloads 
   <img src="https://streak-stats.demolab.com?user=Sreekant13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img alt="Snake animation eating my GitHub contribution graph" src="assets/snake.svg" width="100%" />
+</picture>
+
 ---
 
 ## Beyond Code
