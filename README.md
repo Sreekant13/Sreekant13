@@ -147,12 +147,11 @@ Merged PRs shipping in widely used Python & ML libraries (millions of downloads 
 ## GitHub Stats
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="170"/>
   <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" height="170"/>
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" height="170"/>
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" height="170"/>
   <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commit Time Distribution" height="170"/>
 </p>
 
